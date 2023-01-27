@@ -1,0 +1,21 @@
+{
+    "env": {        
+        "NODE_ENV":"development",
+        "PORT":"4000",
+        "DBUSER":"root",
+        "DBPASSWORD":"",
+        "DBNAME":"video-script",
+        "ALLOWALLUSERINADMIN":true,
+        "DBHOST":"localhost",
+        "ADMIN_SLUG":"/video-admin",
+        "DBPORT":"3306",
+        "DBSOCKETPATH":"",
+        "LOCALADDRESS":"127.0.0.1",
+        "TZ":"utc",
+        "PUBLIC_URL":"http://localhost:4000",
+        "enableHomeButton":false,
+        "SECRETKEY":"videoscriptsectetkey0root",
+        "subFolder":"/",
+        "MYSQLDUMP":"/Applications/XAMPP/bin/"
+    }
+}

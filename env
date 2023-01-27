@@ -1,0 +1,14 @@
+NODE_ENV=production
+PORT=3000
+DBUSER=admin
+DBPASSWORD=D3nk6118100!
+DBNAME=haura-test1
+DBHOST=haura-test1.cgqubs5w81ez.us-west-2.rds.amazonaws.com
+ADMIN_SLUG=/admin
+DBPORT=3306
+TZ=utc
+CDN_URL_FOR_STATIC_RESOURCES=
+subFolder=/
+PUBLIC_URL=https://haura.com
+SECRETKEY=haurasecretkey1231
+ANTMEDIASERVER=true
